@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,100:050505&height=120&text=🔥I'm%20Hwiiron🔥&animation=twinkling&fontColor=ffffff&fontSize=40" />
+    src="https://capsule-render.vercel.app/api?type=transparent&color=0:383838,100:030202&height=120&text=🔥I'm%20Hwiiron🔥&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 </div>
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2>
@@ -42,12 +42,10 @@
   <div align="center"> </div>
 </div>
 <div align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <div align="center"> <img
-      src="https://github-readme-stats.vercel.app/api?username=hwiiron&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff" />
+      src="https://github-readme-stats.vercel.app/api?username=hwiiron&bg_color=180,00000000,00000000&title_color=ffffff&text_color=ffffff" />
   </div>
-</div>
-<div align="center"> </div>
 </div>
     
 <!--
