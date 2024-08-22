@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,100:050505&height=120&text=🔥I'm%20hwiiron🔥&animation=twinkling&fontColor=ffffff&fontSize=40" />
+    src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,100:050505&height=120&text=🔥I'm%20Hwiiron🔥&animation=twinkling&fontColor=ffffff&fontSize=40" />
 </div>
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2>
