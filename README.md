@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:383838,100:030202&height=80&text=🧑🏻‍💻%20👩🏿‍💻%20🧑🏼‍💻%20👩🏾‍💻%20🧑🏽‍💻%20👩🏽‍💻%20🧑🏾‍💻%20👩🏼‍💻%20🧑🏿‍💻%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=40"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"></h2>
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"></div>
 </div>
@@ -40,7 +40,7 @@
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shinhwiiron@gmail.com"/>
     </a>
   </div>
-</div>
+</div> -->
 
 <!-- <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
