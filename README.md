@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=23FFBE&width=435&lines=How+are+you%3F;Have+a+good+day!)](https://git.io/typing-svg)
 
+## 👽 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -14,6 +16,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![McDonald's](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
+
+<br>
+
+## 🌍 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwiiron&layout=compact)
 
 <!-- ![]() -->
 
