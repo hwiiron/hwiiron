@@ -62,6 +62,8 @@
 <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
 </div>
 
+<br>
+
 <!-- ![]() -->
 
 <!-- 
