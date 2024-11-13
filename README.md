@@ -1,9 +1,14 @@
 <div align="center">
-    
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=23FFBE&width=435&lines=How+are+you%3F;Have+a+good+day!)](https://git.io/typing-svg)
 
 </div>
+    
+<div align="center">
+    
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwiiron%2Fyour-repository&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hwiiron/your-repository)
 
+</div>
 
 <h3 align="center">👽 Skills 👽</h3>
 
@@ -24,21 +29,37 @@
 
 <br>
 
-<h3 align="center">🍔🍟</h3>
+<h3 align="center">💻 Dev's Log 💻</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
+<a href="https://hwiiron.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+</a>
+    
+<a href="https://boulder-headstand-90d.notion.site/Codeit-Front-End-11-1352bd9cf4b080a9884bd18617cce296">
+    <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white">
+</a>
 </div>
 
 <br>
 
-
-<h3 align="center">🌍 GitHub Stats 🌍</h3>
+<h3 align="center">📞 Contact 📞</h3>
 
 <div align="center">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwiiron&layout=compact)
+<a href="https://www.instagram.com/98.1106">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="mailto:shinhwiiron@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
+</div>
 
+<br>
+
+<h3 align="center">🍔🍟</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
 </div>
 
 <!-- ![]() -->
@@ -63,30 +84,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
-  
-<!--
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hwiiron)
-
-
-## 💻 DEV's log 💻
-<a href="https://easyhomputer.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-</a>
-<a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
-    <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white">
-</a>
-  
-
- 
-## 📞 Contact 📞
-<a href="https://www.instagram.com/6_o777/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="mailto:dlwlgh1254@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>
 -->
