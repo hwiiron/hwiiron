@@ -25,7 +25,7 @@
 
 <br>
 
-<h3 align="center">﹖</h3>
+<h3 align="center">🍔🍟</h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white" />
