@@ -3,12 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=23FFBE&width=435&lines=How+are+you%3F;Have+a+good+day!)](https://git.io/typing-svg)
 
 </div>
-    
-<div align="center">
-    
-![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwiiron%2Fyour-repository&count_bg=%234B4B4B&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)
-
-</div>
 
 <h3 align="center">👽 Skills 👽</h3>
 
@@ -57,7 +51,13 @@
 <img src="https://img.shields.io/badge/McDonald's-FFC72C?style=flat-square&logo=mcdonalds&logoColor=white" />
 </div>
 
-<br>
+<h3 align="center">👀</h3>
+    
+<div align="center">
+    
+![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwiiron%2Fyour-repository&count_bg=%234B4B4B&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)
+
+</div>
 
 <!-- ![]() -->
 
