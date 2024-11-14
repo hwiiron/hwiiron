@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" /><br>
 </div>
 
-<h3 align="center">🛠️ Tools 🧰</h3>
+<h3 align="center">🛠️ Tools ⚙️</h3>
   
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat-square&logo=Bitbucket&logoColor=white" /><br>
