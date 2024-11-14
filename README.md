@@ -4,21 +4,21 @@
 
 </div>
 
-<h3 align="center">👽 Skills 👽</h3>
+<h3 align="center">💡 Skills 🚀</h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" /><br>
 </div>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-
+<h3 align="center">🛠️ Tools 🧰</h3>
+  
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat-square&logo=Bitbucket&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
-<h3 align="center">💻 Dev's Log 💻</h3>
+<h3 align="center">📝 Dev's Log 💻</h3>
 
 <div align="center">
   <a href="https://hwiiron.tistory.com/">
@@ -31,7 +31,7 @@
   </a>
 </div>
 
-<h3 align="center">📞 Contact 📞</h3>
+<h3 align="center">🌐 Contact 📧</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/98.1106">
