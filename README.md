@@ -23,7 +23,7 @@
 <div align="center">
   <a href="https://hwiiron.tistory.com/">
 <!--     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> -->
-    <img src="https://img.shields.io/badge/Tistory-ff6600?style=flat-square&logo=tistory&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=tistory&logoColor=black" />
   </a>
   <a href="https://boulder-headstand-90d.notion.site/Codeit-Front-End-11-1352bd9cf4b080a9884bd18617cce296">
 <!--     <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> -->
@@ -34,13 +34,13 @@
 <h3 align="center">🌐 Contact 📧</h3>
 
 <div align="center">
-  <a href="https://www.instagram.com/98.1106">
-<!--     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> -->
-<img src="https://img.shields.io/badge/Instagram-ffffff?style=flat-square&logo=instagram&logoColor=E4405F" />
-  </a>
   <a href="mailto:shinhwiiron@gmail.com">
 <!--     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/98.1106">
+<!--     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Instagram-ffffff?style=flat-square&logo=instagram&logoColor=E4405F" />
   </a>
 </div>
 
