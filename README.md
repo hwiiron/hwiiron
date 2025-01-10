@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">🛠️ Tools ⚙️</h3>
-
+  
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat-square&logo=Bitbucket&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
@@ -24,7 +24,10 @@
   <a href="https://hwiiron.tistory.com/">
 <!--     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=tistory&logoColor=black" />
-@@ -31,9 +31,9 @@
+  </a>
+  <a href="https://boulder-headstand-90d.notion.site/About-Me-1422bd9cf4b080d69e83cfe9b70cf75d?pvs=4">
+<!--     <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/Notion-9999FF?style=flat-square&logo=notion&logoColor=white" />
   </a>
 </div>
 
@@ -34,7 +37,10 @@
   <a href="mailto:shinhwiiron@gmail.com">
 <!--     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-@@ -44,16 +44,16 @@
+  </a>
+  <a href="https://www.instagram.com/98.1106">
+<!--     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Instagram-ffffff?style=flat-square&logo=instagram&logoColor=E4405F" />
   </a>
 </div>
 
@@ -46,9 +52,9 @@
 </div>
 
 <h3 align="center">👀</h3>
-
+    
 <div align="center">
-
+    
 ![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwiiron%2Fyour-repository&count_bg=%234B4B4B&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)
 
 </div>
