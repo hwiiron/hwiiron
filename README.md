@@ -22,13 +22,16 @@
 <h3 align="center">📝 Dev's Log 💻</h3>
 
 <div align="center">
+  <a href="https://boulder-headstand-90d.notion.site/About-Me-1422bd9cf4b080d69e83cfe9b70cf75d?pvs=4">
+<!--     <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/Notion-9999FF?style=flat-square&logo=notion&logoColor=white" />
+  </a>
   <a href="https://hwiiron.tistory.com/">
 <!--     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=tistory&logoColor=black" />
   </a>
-  <a href="https://boulder-headstand-90d.notion.site/About-Me-1422bd9cf4b080d69e83cfe9b70cf75d?pvs=4">
-<!--     <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> -->
-    <img src="https://img.shields.io/badge/Notion-9999FF?style=flat-square&logo=notion&logoColor=white" />
+  <a href="https://www.discord.com/users/1179586569838022696">
+    <img src="https://img.shields.io/badge/Discode-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </div>
 
