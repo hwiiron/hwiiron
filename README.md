@@ -39,9 +39,9 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=apple,vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,apple" />
 </div>
