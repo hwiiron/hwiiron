@@ -10,14 +10,14 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss" />
 </div>
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,docker,postgres,prisma" />
+</div>
+
 <h3 align="center">🛠️ Tools & Platforms ⚙️</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,ps,ai,figma" />
-</div>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
 </div>
 
 <h3 align="center">🌐 Contact Me 📧</h3>
@@ -31,14 +31,3 @@
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </div>
-
-
-<h3 align="center">📚 Blog 📖</h3>
-
-<div align="center">
-  <a href="https://boulder-headstand-90d.notion.site/About-Me-1422bd9cf4b080d69e83cfe9b70cf75d?pvs=4">
-    <img src="https://skillicons.dev/icons?i=notion" />
-  </a>
-</div>
-
-<br/><br/>
