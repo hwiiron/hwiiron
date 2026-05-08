@@ -31,3 +31,5 @@
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </div>
+
+<br /><br />
